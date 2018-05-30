@@ -8,3 +8,5 @@ IDE Lazarus
 Release Version 1.0
 
 Nas próximas melhorar a aparencia.
+
+<img src="https://github.com/EuFreela/GanesaDumpDB/blob/master/xxx.png">
