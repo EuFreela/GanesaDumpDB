@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="10"/>
+    <BuildModes Active="Default"/>
+    <Units Count="1">
+      <Unit0>
+        <Filename Value="ganesaDir.pas"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="5"/>
+        <CursorPos X="3" Y="19"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+      </Unit0>
+    </Units>
+    <JumpHistory Count="8" HistoryIndex="7">
+      <Position1>
+        <Filename Value="ganesaDir.pas"/>
+        <Caret Line="18" Column="41"/>
+      </Position1>
+      <Position2>
+        <Filename Value="ganesaDir.pas"/>
+        <Caret Line="17" Column="4" TopLine="5"/>
+      </Position2>
+      <Position3>
+        <Filename Value="ganesaDir.pas"/>
+        <Caret Line="19" Column="7" TopLine="6"/>
+      </Position3>
+      <Position4>
+        <Filename Value="ganesaDir.pas"/>
+        <Caret Line="12" Column="4" TopLine="6"/>
+      </Position4>
+      <Position5>
+        <Filename Value="ganesaDir.pas"/>
+        <Caret Line="19" Column="9" TopLine="6"/>
+      </Position5>
+      <Position6>
+        <Filename Value="ganesaDir.pas"/>
+        <Caret Line="17" Column="12"/>
+      </Position6>
+      <Position7>
+        <Filename Value="ganesaDir.pas"/>
+        <Caret Line="12" Column="4" TopLine="6"/>
+      </Position7>
+      <Position8>
+        <Filename Value="ganesaDir.pas"/>
+        <Caret Line="17" Column="7" TopLine="6"/>
+      </Position8>
+    </JumpHistory>
+  </ProjectSession>
+</CONFIG>
